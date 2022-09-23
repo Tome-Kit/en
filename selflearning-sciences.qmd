@@ -2,6 +2,7 @@
 author:
   - name: janreppo
   - name: 'peacecop kalmer:'
+biblio-title: External references
 bibliography: references-of-selflearning-sciences.bib
 citation: true
 title: "Self-learning sciences"
@@ -34,10 +35,6 @@ format:
 
 ## Conclusions
 
+[en](index.html)
+
 ## References
-
-## Quarto
-
-Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
-
-For going back rather [go](index.html)
