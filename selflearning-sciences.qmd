@@ -18,7 +18,7 @@ For going back rather [go](index.html)
 When you click the **Render** button a document will be generated that includes:
 
 -   Sisu authored with markdown
--   Output from executable code
+-   Väljund from executable code
 
 ## Code
 
