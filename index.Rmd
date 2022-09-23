@@ -182,6 +182,6 @@ render_with_emojis <- function(text) {
 
 # Introduction
 
-i am and my names is peacecop kalmer:. my student code in Tallinna Ülikool is 210951MLLB.LT.
+i am and my names is peacecop kalmer:. my student code in Tallinna Ülikool is *210951MLLB.LT*.
 
 Here, i collect my English study output.

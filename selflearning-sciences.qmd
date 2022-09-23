@@ -1,4 +1,9 @@
 ---
+author:
+  - name: janreppo
+  - name: 'peacecop kalmer:'
+bibliography: references-of-selflearning-sciences.bib
+citation: true
 title: "Self-learning sciences"
 editor: visual
 output-file: _book/selflearning-sciences.html
@@ -7,23 +12,32 @@ format:
     self-contained: true
 ---
 
+## Why self-learning?
+
+@riederer_122 says blah.
+
+## Options
+
+## Variation theory
+
+## Silent teacher
+
+## Adventurous orienteering games
+
+## Suitable fields
+
+## How to self-learn sciences?
+
+## Path with history of physics
+
+## Path with biology
+
+## Conclusions
+
+## References
+
 ## Quarto
 
 Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
 
 For going back rather [go](index.html)
-
-## Bullets
-
-When you click the **Render** button a document will be generated that includes:
-
--   Sisu authored with markdown
--   Väljund from executable kood
-
-## Code
-
-When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
-
-```{r}
-1 + 1
-```
