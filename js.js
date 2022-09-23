@@ -1,3 +1,13 @@
+function createLink(div, id, href, text) {
+  let a = document.createElement("a");
+  a.setAttribute("id", id);
+  a.setAttribute("href", href);
+  a.innerHTML = text;
+  let p = document.createElement("p");
+  p.appendChild(a);
+  div.appendChild(p);
+}
+
 function setTargets() {
 
   let divs = document.getElementsByClassName("csl-entry");
@@ -17,13 +27,8 @@ function setTargets() {
   document.getElementById("book-source").target = "GitHub";
   
   let div = document.getElementById("main-nav").getElementsByTagName("nav")[0].getElementsByClassName("book-extra")[0];
-  let a = document.createElement("a");
-  a.setAttribute("id", "book-print");
-  a.setAttribute("href", "manual-for-rstudio.pdf");
-  a.innerHTML = "View printable book ";
-  let p = document.createElement("p");
-  p.appendChild(a);
-  div.appendChild(p);
+  createLink(div, "book-print", "en.pdf", "View printable book");
+  createLink(div, "presentation-selflearning", "selflearning-sciences.html", "Self-learning sciences");
 }
 
 window.onload = function () {

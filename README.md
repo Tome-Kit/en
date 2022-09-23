@@ -1,1 +1,1 @@
-the manual for RStudio Server from a user's perspective
+a collection of things produced during English study
