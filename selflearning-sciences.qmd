@@ -33,7 +33,7 @@ format:
 ## Path with biology
 
 -Evolution
--Darvinism
+-Darzinism
 
 ## Conclusions
 
