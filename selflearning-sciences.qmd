@@ -12,6 +12,38 @@ format:
     self-contained: true
 ---
 
+## Silent teacher
+
+## ECMAScript
+
+## Starting by math
+
+## Using variation theory
+
+## System generates the tasks freeing human teacher for creating content
+
+## No human language used
+
+## Globally understandable
+
+## Example in math: powers, algebra
+
+## Typingclub
+
+## Biology examples
+
+## Sciencs vs humanity
+
+## Adventurous orienteering games
+
+- using paper maps harkujärve
+
+- using MathCityMp
+
+## Physical and mental stimulation
+
+## History of physics
+
 ## Why self-learning?
 
 @riederer_122 says blah.
@@ -19,6 +51,8 @@ format:
 ## Options
 
 ## Variation theory
+
+- teaching math (@Martensson1603556)
 
 ## Silent teacher
 
@@ -31,11 +65,22 @@ format:
 ## Path with history of physics
 
 ## Path with biology
+```{r}
+a <- c(2, 3, 4, 2, 3, 4)
+b <- mean(a)
+b
+```
+
 
 -Evolution
 -Darwinism
 
 ## Conclusions
+
+Just a couple of use cases, we need millions or billions however not actually because everyone should find what suits best to them.
+
+vt and st only possible to apply efficiently using computer technology
+orienteering games both
 
 [en](index.html)
 
