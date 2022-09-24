@@ -2,7 +2,6 @@
 author:
   - name: janreppo
   - name: 'peacecop kalmer:'
-biblio-title: External references
 bibliography: references-of-selflearning-sciences.bib
 citation: true
 title: "Self-learning sciences"
