@@ -32,11 +32,8 @@ format:
 
 ## Path with biology
 
-<<<<<<< HEAD
 -Evolution
-=======
 -Darvinism
->>>>>>> 6ec5f1173d72d852b6bf44721f2406c70484f9a2
 
 ## Conclusions
 
