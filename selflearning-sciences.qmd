@@ -14,74 +14,145 @@ format:
 
 ## Silent teacher
 
-## ECMAScript
+![Opening screen of [SILENT TEACHER](https://silentteacher.toxicode.fr/).](rmd/silentteacher.jpg)
 
-## Starting by math
+@silent
 
-## Using variation theory
+## How does it work?
 
-## System generates the tasks freeing human teacher for creating content
+- no instructions
 
-## No human language used
+- no explanations
 
-## Globally understandable
+- learning by trial and error
 
-## Example in math: powers, algebra
+- learning from own mistakes
+
+- accessible regardless the human language
+
+## Process of discovery
+
+- questions in logical order
+
+- correctness is shown
+
+- on incorrect answer: another question of the same kind
+
+- multiple incorrect answers to question of the same kind: several other questions of the same kind
+
+## What can we learn using SILENT TEACHER?
+
+- concepts of programming
+
+- ECMAScript
+
+- Python
 
 ## Typingclub
 
+![Opening image on [TypingClub](https://www.typingclub.com/).](rmd/typingclub-browser3.png)
+
+@a2011_free
+
+## What about learning math the same way?
+
+- [Variation Theory](https://variationtheory.com/) (@a2019_variation)
+
+- [exponentiation](https://nextcloud.tennis24.ee/index.php/s/nXbm4grRNrjfFp9) (@astendaminedocx)
+
+## Variation theory
+
+- small variation
+
+- large variation
+
+## Solution for deficit of teachers?
+
+- human teachers manage content
+
+- content can be reused
+
+- human teachers deal with small groups of pupils and mentor
+
+- other pupils self-study
+
+- How many pupils can self-study?
+
+- can be applied efficiently only using computer technology
+
+- Can everything be learned using variation theory and silent teaching?
+
 ## Biology examples
 
-## Sciencs vs humanity
+- [genetics](https://whitebophir.tennis24.ee/preview/en#0,2374,1.0) (@a2022)
 
 ## Adventurous orienteering games
 
-- using paper maps harkujärve
+- bringing pupils outside classroom
 
-- using MathCityMp
+- overcoming the limit of using computer technology
+
+## Using paper maps in Harkujärve
+
+![Learning symbol encoding outdoors.](rmd/seiklused-harkujärve-page003.png)
+
+## Using integrated learning with MathCityMap
+
+![MathCityMap is meant to learn math outdoors. (@mathcitymap)](rmd/mcm.png)
+
+- mingi pilt siia testimise videolt
+
+## Trail on history of physics
+
+- questionnaire before and after
+
+- 13
+
+- learning and unlearning
+
+## Science vs humanity
+
+- adding visuals, audio
+
+- complicated to give feedback by computer
+
+## Integrated learning
+
+![orJenteerumismäng](rmd/4-tuba-2022-04-23-16-49-50.png) (@_2022_orienteering)
+
+## Further plans in action
+
+Ruum4 (@orjenteerumismng)
 
 ## Physical and mental stimulation
-
-## History of physics
-
-## Why self-learning?
-
-@riederer_122 says blah.
-
-## Options
 
 ## Variation theory
 
 - teaching math (@Martensson1603556)
 
-## Silent teacher
-
-## Adventurous orienteering games
-
-## Suitable fields
-
-## How to self-learn sciences?
-
-## Path with history of physics
-
-## Path with biology
-```{r}
-a <- c(2, 3, 4, 2, 3, 4)
-b <- mean(a)
-b
-```
-
-
--Evolution
--Darwinism
-
 ## Conclusions
 
-Just a couple of use cases, we need millions or billions however not actually because everyone should find what suits best to them.
+- hypothetically efficient using variation theory and silent teaching
 
-vt and st only possible to apply efficiently using computer technology
-orienteering games both
+- mostly limited to computer technology
+
+- both indoors and outdoors
+
+- only a few learning programs available
+
+- a comprehensive universal self-learning system expected
+
+- everyone should find what method suits best to them
 
 [en](index.html)
 
+## Go and play using MathCityMap!
+
+- History of physics: 0511846
+
+- 4. tuba: 398852
+
 ## References
+
+\hyphenpenalty=10000
+\fontspec{Symbola}
