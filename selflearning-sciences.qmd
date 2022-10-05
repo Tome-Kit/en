@@ -120,13 +120,12 @@ format:
 
 ![orJenteerumismäng](rmd/4-tuba-2022-04-23-16-49-50.png) (@_2022_orienteering)
 
-<<<<<<< HEAD
 -Evolution
 
 ![DNA](DNA.png)
 
 -Darwinism
-=======
+
 ## Further plans in action
 
 Ruum4 (@orjenteerumismng)
@@ -136,7 +135,7 @@ Ruum4 (@orjenteerumismng)
 ## Variation theory
 
 - teaching math (@Martensson1603556)
->>>>>>> 44e980530e71187c55c83f8b79df726c45a26766
+
 
 ## Conclusions
 
