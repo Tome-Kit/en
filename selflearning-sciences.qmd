@@ -1,6 +1,6 @@
 ---
 author:
-  - name: janreppo
+  - name: Jan Erik Reppo
   - name: 'peacecop kalmer:'
 bibliography: references-of-selflearning-sciences.bib
 citation: true
@@ -84,7 +84,11 @@ format:
 
 ## Biology examples
 
-- [genetics](https://whitebophir.tennis24.ee/preview/en#0,2374,1.0) (@a2022)
+- Learning about: Organisms, DNA, Processes, Evolution, etc.
+
+- [Genetics](https://whitebophir.tennis24.ee/preview/en#0,2374,1.0) (@a2022)
+
+![](rmd/DNA.jpg)
 
 ## Rabbits
 
