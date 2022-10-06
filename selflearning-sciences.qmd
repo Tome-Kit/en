@@ -115,6 +115,8 @@ format:
 
 - bringing pupils outside classroom
 
+- physical and mental effort
+
 - overcoming the limit of using computer technology
 
 ## Using paper maps in Harkujärve
@@ -125,11 +127,103 @@ format:
 
 ![MathCityMap is meant to learn math outdoors. (@mathcitymap)](rmd/mcm.png)
 
-- mingi pilt siia testimise videolt
-
 ## Trail on history of physics
 
-- questionnaire before and after
+## Filling in questionnaire before
+
+![How much could he answer correctly before?](rmd/questionnaire-before.png)
+
+## Random boy with a gun
+
+![](rmd/boy-with-gun.png)
+
+## How much does it cost to park here between 12 and 13 o'clock Sundays?
+
+![](rmd/parking.png)
+
+## What material was used before bronze in toolmaking?
+
+![](rmd/bench.png)
+
+## How much is the ratio of area to circumference?
+
+![](rmd/sundie.png)
+
+## What could be the ratio of the area to the circumstance?
+
+![](rmd/depressed.png)
+
+## This is wrong! ... And it was
+
+![Creator's first mistake found.](rmd/wrong.jpg)
+
+## Can it be there?
+
+![](rmd/is-it-there.png)
+
+## Yes, indeed! How many *wolts* then?
+
+![](rmd/wolts.png)
+
+## And how am i supposed to calculate the power?
+
+![](rmd/calculating-power.png)
+
+## Really? This is the solution?
+
+![](rmd/sample-solution.png)
+
+## Now, where is the door lock?
+
+![](rmd/looking-for-door-lock.png)
+
+## Found it!
+
+![](rmd/door-lock-found.png)
+
+## Can i find the force up there?
+
+![](rmd/15-t.png)
+
+## How high is the clock tower?
+
+![](rmd/measuring-clock.png)
+
+## "Hey, can you measure me some fire?"
+
+![](rmd/guy-approaching.png)
+
+## That guy had a lighter and a cigarette but no fire
+
+![](rmd/lighter-cigarette.png)
+
+## Components of bronze
+
+![](rmd/bronze.png)
+
+## What epoch followed the copper and bronze one?
+
+![](rmd/fe-cu.png)
+
+## What other component belongs to steel?
+
+![](rmd/fe-steel.png)
+
+## Can i get a hint?
+
+![](rmd/hint.png)
+
+## Can i park me here?
+
+![](rmd/bicycle-parking.png)
+
+## 8 kilometers of walking and thinking
+
+![](rmd/geotracker.png)
+
+## Filling in the questionnaire afterwards
+
+![](rmd/questionnaire-after.png)
 
 - 13
 
@@ -145,22 +239,9 @@ format:
 
 ![orJenteerumismäng](rmd/4-tuba-2022-04-23-16-49-50.png) (@_2022_orienteering)
 
--Evolution
-
-![DNA](DNA.png)
-
--Darwinism
-
 ## Further plans in action
 
 Ruum4 (@orjenteerumismng)
-
-## Physical and mental stimulation
-
-## Variation theory
-
-- teaching math (@Martensson1603556)
-
 
 ## Conclusions
 
@@ -176,13 +257,13 @@ Ruum4 (@orjenteerumismng)
 
 - everyone should find what method suits best to them
 
-[en](index.html)
-
 ## Go and play using MathCityMap!
 
 - History of physics: 0511846
 
 - 4. tuba: 398852
+
+[en](index.html)
 
 ## References
 
