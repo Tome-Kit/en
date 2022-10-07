@@ -1,0 +1,271 @@
+---
+author:
+  - name: Jan Erik Reppo
+  - name: 'peacecop kalmer:'
+bibliography: references-of-selflearning-sciences.bib
+citation: true
+title: "Self-learning sciences"
+editor: visual
+output-file: _book/selflearning-sciences.html
+format:
+  revealjs:
+    self-contained: true
+---
+
+## Silent teacher
+
+![Opening screen of [SILENT TEACHER](https://silentteacher.toxicode.fr/).](rmd/silentteacher.jpg)
+
+@silent
+
+## How does it work?
+
+- no instructions
+
+- no explanations
+
+- learning by trial and error
+
+- learning from own mistakes
+
+- accessible regardless the human language
+
+## Process of discovery
+
+- questions in logical order
+
+- correctness is shown
+
+- on incorrect answer: another question of the same kind
+
+- multiple incorrect answers to question of the same kind: several other questions of the same kind
+
+## What can we learn using SILENT TEACHER?
+
+- concepts of programming
+
+- ECMAScript
+
+- Python
+
+## Typingclub
+
+![Opening image on [TypingClub](https://www.typingclub.com/).](rmd/typingclub-browser3.png)
+
+@a2011_free
+
+## What about learning math the same way?
+
+- [Variation Theory](https://variationtheory.com/) (@a2019_variation)
+
+- [exponentiation](https://nextcloud.tennis24.ee/index.php/s/nXbm4grRNrjfFp9) (@astendaminedocx)
+
+## Variation theory
+
+- small variation
+
+- large variation
+
+## Solution for deficit of teachers?
+
+- human teachers manage content
+
+- content can be reused
+
+- human teachers deal with small groups of pupils and mentor
+
+- other pupils self-study
+
+- How many pupils can self-study?
+
+- can be applied efficiently only using computer technology
+
+- Can everything be learned using variation theory and silent teaching?
+
+## Biology examples
+
+- Learning about: Organisms, DNA, Processes, Evolution, etc.
+
+- [Genetics](https://whitebophir.tennis24.ee/preview/en#0,2374,1.0) (@a2022)
+
+![](rmd/DNA.jpg)
+
+## Rabbits
+
+![](rmd/Küülikud-harjutus.png)
+
+##
+
+![](rmd/Küülikud-lahendus-koos-vastusega.png)
+
+
+## Eyes
+
+![](rmd/Silmad-harjutus.png)
+
+##
+
+![](rmd/Silmad-lahendus koos vastustega.png)
+
+## The progress
+
+![](rmd/Progress of teaching.png)
+
+## Adventurous orienteering games
+
+- bringing pupils outside classroom
+
+- physical and mental effort
+
+- overcoming the limit of using computer technology
+
+## Using paper maps in Harkujärve
+
+![Learning symbol encoding outdoors.](rmd/seiklused-harkujärve-page003.png)
+
+## Using integrated learning with MathCityMap
+
+![MathCityMap is meant to learn math outdoors. (@mathcitymap)](rmd/mcm.png)
+
+## Trail on history of physics
+
+## Filling in questionnaire before
+
+![How much could he answer correctly before?](rmd/questionnaire-before.png)
+
+## Random boy with a gun
+
+![](rmd/boy-with-gun.png)
+
+## How much does it cost to park here between 12 and 13 o'clock Sundays?
+
+![](rmd/parking.png)
+
+## What material was used before bronze in toolmaking?
+
+![](rmd/bench.png)
+
+## How much is the ratio of area to circumference?
+
+![](rmd/sundie.png)
+
+## What could be the ratio of the area to the circumstance?
+
+![](rmd/depressed.png)
+
+## This is wrong! ... And it was
+
+![Creator's first mistake found.](rmd/wrong.jpg)
+
+## Can it be there?
+
+![](rmd/is-it-there.png)
+
+## Yes, indeed! How many *wolts* then?
+
+![](rmd/wolts.png)
+
+## And how am i supposed to calculate the power?
+
+![](rmd/calculating-power.png)
+
+## Really? This is the solution?
+
+![](rmd/sample-solution.png)
+
+## Now, where is the door lock?
+
+![](rmd/looking-for-door-lock.png)
+
+## Found it!
+
+![](rmd/door-lock-found.png)
+
+## Can i find the force up there?
+
+![](rmd/15-t.png)
+
+## How high is the clock tower?
+
+![](rmd/measuring-clock.png)
+
+## "Hey, can you measure me some fire?"
+
+![](rmd/guy-approaching.png)
+
+## That guy had a lighter and a cigarette but no fire
+
+![](rmd/lighter-cigarette.png)
+
+## Components of bronze
+
+![](rmd/bronze.png)
+
+## What epoch followed the copper and bronze one?
+
+![](rmd/fe-cu.png)
+
+## What other component belongs to steel?
+
+![](rmd/fe-steel.png)
+
+## Can i get a hint?
+
+![](rmd/hint.png)
+
+## Can i park me here?
+
+![](rmd/bicycle-parking.png)
+
+## 8 kilometers of walking and thinking
+
+![](rmd/geotracker.png)
+
+## Filling in the questionnaire afterwards
+
+![](rmd/questionnaire-after.png)
+
+- 13
+
+- learning and unlearning
+
+## Science vs humanity
+
+- adding visuals, audio
+
+- complicated to give feedback by computer
+
+## Integrated learning
+
+![orJenteerumismäng](rmd/4-tuba-2022-04-23-16-49-50.png) (@_2022_orienteering)
+
+## Further plans in action
+
+Ruum4 (@orjenteerumismng)
+
+## Conclusions
+
+- hypothetically efficient using variation theory and silent teaching
+
+- mostly limited to computer technology
+
+- both indoors and outdoors
+
+- only a few learning programs available
+
+- a comprehensive universal self-learning system expected
+
+- everyone should find what method suits best to them
+
+## Go and play using MathCityMap!
+
+- History of physics: 0511846
+
+- 4. tuba: 398852
+
+[en](index.html)
+
+## References
+
+\hyphenpenalty=10000
+\fontspec{Symbola}
