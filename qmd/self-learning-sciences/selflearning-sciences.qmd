@@ -14,8 +14,7 @@ format:
 
 ## Silent teacher
 
-![Opening screen of [SILENT
-TEACHER](https://silentteacher.toxicode.fr/).](silentteacher.jpg)
+![Opening screen of [SILENT TEACHER](https://silentteacher.toxicode.fr/).](silentteacher.jpg)
 
 @silent
 
@@ -87,7 +86,9 @@ TEACHER](https://silentteacher.toxicode.fr/).](silentteacher.jpg)
 
 ## Biology examples
 
-[genetics](https://whitebophir.tennis24.ee/preview/en#0,2374,1.0) (@a2022)
+- Learning about: Organisms, DNA, Processes, Evolution, etc.
+
+- [genetics](https://whitebophir.tennis24.ee/preview/en#0,2374,1.0) (@a2022)
 
 ## Rabbits
 
@@ -125,15 +126,13 @@ TEACHER](https://silentteacher.toxicode.fr/).](silentteacher.jpg)
 
 ## Using integrated learning with MathCityMap
 
-![MathCityMap is meant to learn math outdoors.
-(@mathcitymap)](mcm.jpg)
+![MathCityMap is meant to learn math outdoors. (@mathcitymap)](mcm.jpg)
 
 ## Trail on history of physics
 
 ## Filling in questionnaire before
 
-![How much could he answer correctly
-before?](questionnaire-before.jpg)
+![How much could he answer correctly before?](questionnaire-before.jpg)
 
 ## Random boy with a gun
 
@@ -239,8 +238,7 @@ before?](questionnaire-before.jpg)
 
 ## Integrated learning
 
-![orJenteerumismäng](4-tuba-2022-04-23-16-49-50.jpg)
-(@_2022_orienteering)
+![orJenteerumismäng](4-tuba-2022-04-23-16-49-50.jpg) (@_2022_orienteering)
 
 ## Further plans in action
 
