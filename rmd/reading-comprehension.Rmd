@@ -1,0 +1,115 @@
+# Reading comprehension
+
+## Task description
+
+You are going to read an extract from a magazine article. Six paragraphs have been removed from
+the extract. Choose from the paragraphs A – G the one which fits each gap (1 – 6). There is one
+extra paragraph which you do not need to use.
+
+## Scottish Wildcat
+
+On my living-room wall I have a painting of a wildcat by John Holmes of which I am extremely
+fond. It depicts a snarling, spitting animal, teeth bared and back arched: a taut coiled spring ready
+to unleash some unknown fury.
+
+1
+
+However, the physical differences are tangible. The wildcat is a much larger animal, weighing in
+some cases up to seven kilos, the same as a typical male fox. The coat pattern is superficially
+similar to a domestic tabby cat but it is all stripes and no spots. The tail is thicker and blunter, with
+three to five black rings. The animal has an altogether heavier look.
+The Scottish wildcat was originally distinguished as a separate subspecies in 1912, but it is now
+generally recognised that there is little difference between the Scottish and other European
+populations. According to an excellent report on the wildcat printed in 1991, the animals
+originally occurred in a variety of habitats throughout Europe.
+
+2
+
+It was during the nineteenth century, with the establishment of many estates used by landowners for
+hunting, that the wildcat became a nuisance and its rapid decline really began; 198 wildcats were
+killed in three years in the area of Glengarry, for example. However, things were later to
+improve for the species.
+
+3
+
+The future is by no means secure, though, and recent evidence suggests that the wildcat is
+particularly vulnerable to local eradication, especially in the remoter parts of northern and
+western Scotland. This is a cause for real concern, given that the animals in these areas have less
+contact with domestic cats and are therefore purer.
+
+4
+
+Part of the problem stems from the fact that the accepted physical description of the species
+originates from the selective nature of the examination process by the British Natural History
+Museum at the start of the century, and this has been used as the type-definition for the animal
+ever since. Animals that did not conform to that large blunt-tailed ‘tabby’ description were
+discarded as not being wildcats. In other words, an artificial collection of specimens was built
+up, exhibiting the features considered typical of the wildcat.
+The current research aims to resolve this potential problem. It is attempting to find out whether
+there are any physical features which characterise the so-called wild-living cats.
+
+5
+
+But what of his lifestyle? Wildcat kittens are usually born in May/June in a secluded den,
+secreted in a gap amongst boulders. Another favourite location is in the roots of a tree.
+
+6
+
+Rabbits are a favourite prey, and some of the best areas to see wildcats are at rabbit warrens
+close to the forest and moorland edge. Mice, small birds and even insects also form a large part of
+the diet, and the animal may occasionally take young deer.
+The wildcat is one of the Scottish Highlands’ most exciting animals. Catch a glimpse of one and
+the memory will linger forever.
+
+---
+
+A
+
+The recruitment of men to the armed forces during the conflict in Europe from 1914 to 1918
+meant there was very little persecution, since gamekeepers went off to fight. As the number of
+gamekeepers decreased, the wildcat began to increase its range, recolonising many of its former
+haunts. Extinction was narrowly averted.
+
+B
+
+The wildcat waits for a while in rapt concentration, ears twitching and eyes watching, seeing
+everything and hearing everything, trying to detect the tell-tale movement of a vole or a mouse. But
+there is nothing, and in another leap he disappears into the gloom.
+
+C
+
+The results, which are expected shortly, will be fascinating. But anyone who has seen a wildcat will
+be in little doubt that there is indeed a unique and distinctive animal living in the Scottish
+Highlands, whatever his background.
+
+D
+
+They probably used deciduous and coniferous woodland for shelter, particularly in winter, and
+hunted over more open areas such as forest edge, open woodland, thickets and scrub, grassy areas
+and marsh. The wildcat was probably driven into more mountainous areas by a combination of
+deforestation and persecution.
+
+E
+
+As the animals emerge, their curiosity is aroused by every movement and rustle in the
+vegetation. Later they will accompany their mother on hunting trips, learning quickly, and soon
+become adept hunters themselves.
+
+F
+
+This is what makes many people think that the wildcat is a species in its own right. Research
+currently being undertaken by Scottish Natural Heritage is investigating whether the wildcat really
+is distinct from its homeliving cousin, or whether it is nothing more than a wild-living form of the
+domestic cat.G
+It is a typical image most folk have of the beast, but it is very much a false one, for the wildcat is
+little more than a bigger version of the domestic cat, and probably shows his anger as often.
+
+## Solution
+
+1G
+2D
+3A
+4F
+5C
+6E
+`r render_with_emojis("((ref:part))")`
