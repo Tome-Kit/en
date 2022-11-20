@@ -4,5 +4,6 @@ delete_merged_file: true
 rmd_files: [
   "index.Rmd",
   "rmd/reading-comprehension.Rmd",
+  "rmd/content-language.Rmd",
   "references.Rmd"
 ]

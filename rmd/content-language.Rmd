@@ -1,0 +1,40 @@
+# Content Language
+
+## Source
+
+> A final caveat refers to the ecological validity of our study, as
+we conducted the study in a laboratory setting, which likely
+reduced the students’ motivation to engage in the different learning
+activities. Therefore, future studies should replicate our findings in
+more authentic and applied learning settings, in which actual
+novice students of the particular domain are engaged in in-between
+versus afterstudy explaining.
+>
+>All in all, our findings are a promising starting point for further
+research on the effects of in-between learning activities on stu-
+dents’ acquisition of conceptual knowledge, as our study is one of
+the first which documented that the sequencing of explaining
+activities is crucial for the effectiveness of explaining activities.
+Our findings demonstrate that learning by explaining can be more
+effective when it is instantiated between study phases rather than
+after studying. These findings also have implications for educa-
+tional practice, as they demonstrate the relevance of the timing of
+distinct learning activities.
+
+`r tufte::quote_footer(paste("---", render_with_emojis(text = "((ref:lachner-2020-timing), p. 11)")))`
+
+## Rephrased source
+
+The current investigation was limited by a laboratory setting, which likely
+reduced the students’ motivation to engage in the different learning
+activities. Future research should therefore concentrate on the investigation of our findings in
+more authentic and applied learning settings, in which actual
+novice students of the particular domain are engaged in in-between
+versus after study explaining.
+
+More research is required to determine the efficacy of in-between learning activities on students’ acquisition of conceptual knowledge, as our study is one of
+the first which documented that the sequencing of explaining
+activities is crucial for the effectiveness of explaining activities. This research extends our knowledge of learning by explaining that it can be more
+effective when it is instantiated between study phases rather than
+after studying. Another important practical implication is that they demonstrate the relevance of the timing of
+distinct learning activities.
